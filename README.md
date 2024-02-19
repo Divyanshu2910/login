@@ -1,8 +1,7 @@
-<h1>Login Screens in Flutter</h1>
+<h1>LoginScreens in Flutter</h1>
 <table>
   <tr>
-
-    <td>LoginScreen1</td>
+     <td>LoginScreen1</td>
      <td>SignupScreen</td>
      <td>ForgotPassword</td>
   </tr>
